@@ -1,0 +1,9 @@
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/BankManagementApplication.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/config/DynamoDBConfig.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/controller/AccountController.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/model/Account.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/model/Transaction.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/repository/AccountRepository.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/repository/TransactionRepository.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/service/AccountService.java
+/home/daniel/bank-management/src/main/java/com/example/bankmanagement/service/TransactionService.java
